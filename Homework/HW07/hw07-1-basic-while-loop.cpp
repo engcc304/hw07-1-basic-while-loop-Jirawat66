@@ -39,6 +39,7 @@ int main(){
     {
         while (n > i) 
         {
+            i++ ;
             printf("(%d) Hello World\n", i ) ;
         }
     }
@@ -46,6 +47,7 @@ int main(){
     {
         while (n > i) 
         {
+            i++ ;
             printf("[%d] Hello World\n", i ) ;
         }
     }
